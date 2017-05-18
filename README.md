@@ -1,2 +1,2 @@
-# Neural Networks and Deep Learning Group at VT
-This is a repo for students and faculty interested in Deep Learning and Neural Networks to collaborate. 
+# Under Construction <img src="under_construction.00_gif_srz" style="padding-left:20px; height:30px;"/>
+
