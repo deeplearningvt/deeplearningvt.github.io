@@ -1,2 +1,2 @@
-# deeplearningvt.github.io
-Neural Networks and Deep Learning Group at Virginia Tech
+# Neural Networks and Deep Learning Group at Virginia Tech
+This is a repo for students and faculty interested in Deep Learning and Neural Networks to collaborate. 
